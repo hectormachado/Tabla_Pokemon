@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/HOME"
+        android:icon="@drawable/home"
+        android:title="Inicio"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/TODOS"
+        android:title="TODOS" />
+    <item
+        android:id="@+id/JUGAR"
+        android:icon="@drawable/mando"
+        android:title="JUGAR"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/AGUA"
+        android:title="AGUA"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/PLANTA"
+        android:title="PLANTA" />
+    <item
+        android:id="@+id/FUEGO"
+        android:title="FUEGO" />
+    <item
+        android:id="@+id/ELECTRICO"
+        android:title="ELECTRICO" />
+    <item
+        android:id="@+id/TIERRA"
+        android:title="TIERRA" />
+    <item
+        android:id="@+id/ROCA"
+        android:title="ROCA" />
+    <item
+        android:id="@+id/FANTASMA"
+        android:title="FANTASMA" />
+    <item
+        android:id="@+id/SINIESTRO"
+        android:title="SINIESTRO" />
+    <item
+        android:id="@+id/VENENO"
+        android:title="VENENO" />
+    <item
+        android:id="@+id/HADA"
+        android:title="HADA" />
+    <item
+        android:id="@+id/DRAGON"
+        android:title="DRAGON" />
+    <item
+        android:id="@+id/HIELO"
+        android:title="HIELO" />
+    <item
+        android:id="@+id/ACERO"
+        android:title="ACERO" />
+    <item
+        android:id="@+id/BICHO"
+        android:title="BICHO" />
+    <item
+        android:id="@+id/VOLADOR"
+        android:title="VOLADOR" />
+    <item
+        android:id="@+id/LUCHA"
+        android:title="LUCHA" />
+    <item
+        android:id="@+id/PSIQUICO"
+        android:title="PSIQUICO" />
+    <item
+        android:id="@+id/NORMAL"
+        android:title="NORMAL" />
+</menu>
